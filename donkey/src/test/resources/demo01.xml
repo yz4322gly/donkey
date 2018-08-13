@@ -1,0 +1,11 @@
+<note xmlns="http://xin.tomdonkey.donkey"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://xin.tomdonkey.donkey
+                        xsd/demo01.xsd">
+
+
+    <to>asdf</to>
+    <from>dsf</from>
+    <heading>asdf</heading>
+    <body>sdaf</body>
+</note>
